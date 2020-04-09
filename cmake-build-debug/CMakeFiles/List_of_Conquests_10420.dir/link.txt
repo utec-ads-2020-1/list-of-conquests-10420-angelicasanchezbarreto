@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/List_of_Conquests_10420.dir/main.cpp.o  -o List_of_Conquests_10420 
